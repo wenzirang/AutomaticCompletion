@@ -1,4 +1,4 @@
-# AutomaticCompletion
+# Automatic Completion
 @author:Allen.wen
 
 @description: 基于React es6 + fetch  制作的自动补全搜索组件 
